@@ -1,0 +1,29 @@
+/* Abel - Navbar */
+/* @font-face {
+	font-family: 'Abel';
+	src: url('../vendor/fonts/Abel/Abel-Regular.ttf') format('truetype');
+  } */
+  
+  /* Josefin Sans */
+  /* @font-face {
+	font-family: 'Josefin';
+	src: url('../vendor/fonts/Josefin_Sans/JosefinSans-Regular.ttf') format('truetype');
+  } */
+  
+  /* Lexend Deca */
+  /* @font-face {
+	font-family: 'Lexend';
+	src: url('../vendor/fonts/Lexend_Deca/LexendDeca-Regular.ttf') format('truetype');
+  } */
+  
+
+
+  /* Roboto - default font */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap');
+
+/* Montserrat - secondary font */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
